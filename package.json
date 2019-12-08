@@ -1,0 +1,26 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "description": "blog",
+  "main": "index.js",
+  "dependencies": {
+    "jekyll": "^3.0.0-beta1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test command"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bomi-yun/bomi.yun1.github.io.git"
+  },
+  "keywords": [
+    "blog"
+  ],
+  "author": "bomi.yun",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bomi-yun/bomi.yun1.github.io/issues"
+  },
+  "homepage": "https://github.com/bomi-yun/bomi.yun1.github.io#readme"
+}
